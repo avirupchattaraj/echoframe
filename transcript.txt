@@ -1,0 +1,39 @@
+--- Audio Transcript: extracted_speech.wav ---
+Language: en
+
+[0.00s -> 7.12s] Now it's time to take a quick look at how the stock market works.
+[7.12s -> 14.12s] And as you can see on the screen right here I have the SMP 500 short and the SMP 500
+[14.12s -> 17.16s] is what we call a stock market index.
+[17.16s -> 24.12s] And the reason it's called SMP 500 here is because this index is basically you can think
+[24.12s -> 26.88s] about it as a basket of stocks.
+[26.88s -> 33.96s] In this particular basket or in this particular index we have 500 of the largest companies
+[33.96s -> 35.52s] in the US.
+[35.52s -> 41.72s] So by looking at this index this particular chart starts all the way back here in 1960
+[41.72s -> 49.16s] by looking at this chart we can basically see how the stock market have performed as a
+[49.16s -> 50.16s] whole.
+[50.16s -> 56.08s] So when the SMP 500 is going up you can think about it as that the stock market is going
+[56.08s -> 57.84s] up on average.
+[57.84s -> 63.36s] So now then what is the main purpose of the stock market?
+[63.36s -> 68.98s] Well the main purpose is basically to connect buyers and sellers.
+[68.98s -> 74.84s] So the stock market brings together people who want to buy stocks with people who want
+[74.84s -> 75.84s] to sell them.
+[75.84s -> 79.16s] That's the main goal of the stock market.
+[79.16s -> 82.76s] And what makes stock prices move?
+[82.76s -> 89.32s] Well the force behind all stock market movements is what we call supply and demand.
+[89.32s -> 95.68s] And in very simple terms more buyers than sellers leads to a price increase which we call
+[95.68s -> 103.64s] demand and more sellers than buyers lead to a price decrease that we call supply.
+[103.64s -> 107.24s] This right here is a very simplified explanation.
+[107.24s -> 112.24s] But if you want to dive deeper I actually have a full course on supply and demand here
+[112.24s -> 113.24s] on the channel.
+[113.24s -> 117.92s] So I will make sure to link that video somewhere up in the corner and I do recommend to watch
+[117.92s -> 120.76s] that video after this course.
+[120.76s -> 123.20s] And what about market indices?
+[123.20s -> 130.08s] Well we have already mentioned one of the most popular and most famous stock market index.
+[130.08s -> 132.04s] But let's just repeat here.
+[132.04s -> 138.28s] What the stock market index basically does is that it's tracking the market performance.
+[138.28s -> 146.80s] So indices like for example the S&P 500 measured the overall performance of a group of stocks
+[146.80s -> 151.24s] and they do this to provide an overall view of the market.
+[151.24s -> 157.36s] Alright so this video was actually used a very short clip from our full stock market course
+[157.36s -> 158.84s] here on the channel.
+[158.84s -> 162.40s] To watch the full course simply click or tap on the screen right here.
+[162.40s -> 166.08s] I hope I will see you all over there very very soon.
